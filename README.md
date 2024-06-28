@@ -1,6 +1,6 @@
 # Voici un Fichier README qui résume et donne les liens vers mes traveaux de ces dernières années
 
-Voici un lien vers mon projet en cour : https://github.com/VadimKashtanov/Vecteurs-1a2a
+Voici un lien vers mon projet en cour : https://github.com/VadimKashtanov/Vecteurs-1a2a1
 
 Voici un exemple GUI python tkinter fait par mes soins, de l'application qui me permet de cree des modèles, que j'utiliserais ensuite dans mon programme C++/CUDA. Le programme entrainneras avec la carte graphique tous ces modèles, avec divers type de données. 
 
