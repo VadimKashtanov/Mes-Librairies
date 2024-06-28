@@ -6,7 +6,7 @@ Voici un exemple GUI python tkinter fait par mes soins, de l'application qui me 
 
 ![alt text](https://github.com/VadimKashtanov/Mes-Librairies/blob/main/_img.png)
 
-## Capacitées
+### Capacitées
 
 C'est equivalent a Tensoflow / Keras ... Seulement, au lieux de faire un fichier python avec les couches, je le fait graphiquement.
 
@@ -14,7 +14,7 @@ J'y ai implémenté des Reseaux de neurones, des LSTM/GRU, des Convolutions ou e
 
 Je l'utilise principalement pour la prédiction de time series.
 
-## Implémentation
+### Implémentation
 
 L'implémentation en C++/CUDA est from scratch (avec des petits scriptes Python). Ce qui veut dire que je n'ais pas utilise de Cublas ou autre. Toutes les multiplications de matrices, les activations, les concolution ... Tout est implémenté par moi meme.
 
