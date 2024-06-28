@@ -4,7 +4,7 @@ Voici un lien vers mon projet en cour : https://github.com/VadimKashtanov/Vecteu
 
 Voici un exemple GUI python tkinter fait par mes soins, de l'application qui me permet de cree des modèles, que j'utiliserais ensuite dans mon programme C++/CUDA. Le programme entrainneras avec la carte graphique tous ces modèles, avec divers type de données. 
 
-![alt text](https://github.com/VadimKashtanov/Mes-Librairies/blob/main/img.png)
+![alt text](https://github.com/VadimKashtanov/Mes-Librairies/blob/main/_img.png)
 
 C'est equivalent a Tensoflow / Keras ... Seulement, au lieux de faire un fichier python avec les couches, je le fait graphiquement.
 
