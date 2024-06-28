@@ -2,7 +2,7 @@
 
 Voici un lien vers mon projet en cour : https://github.com/VadimKashtanov/Vecteurs-1a2a1
 
-Voici un exemple GUI python tkinter fait par mes soins, de l'application qui me permet de cree des modèles, que j'utiliserais ensuite dans mon programme C++/CUDA. Le programme entrainneras avec la carte graphique tous ces modèles, avec divers type de données. 
+Voici un exemple GUI python tkinter fait par mes soins, de l'application qui me permet de cree des modèles, que j'utilise ensuite dans mon programme C++/CUDA (que j'execute par ligne de commande moi meme). Le programme entrainneras avec la carte graphique tous ces modèles, avec divers type de données. 
 
 ![alt text](https://github.com/VadimKashtanov/Mes-Librairies/blob/main/_img.png)
 
