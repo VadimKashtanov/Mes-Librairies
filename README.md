@@ -17,4 +17,4 @@ Le from scratch, m'as toujours tenue a coeur, car je souhait toujours comprendre
 
 # Autre
 
-De la même manière (from scratch) que ce projet d'intelligence artificielle, j'ai travaillé sur la conception de systems opérationnles
+De la même manière (from scratch) que ce projet d'intelligence artificielle, j'ai travaillé sur la conception de systems opérationnles, divers projet dans le réseau / web, ainsi que divers projets dans la cryptographie. 
